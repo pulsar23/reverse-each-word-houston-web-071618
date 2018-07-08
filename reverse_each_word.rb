@@ -14,5 +14,3 @@ def reverse_each_word(string)
   return string2
   
 end #End reverse_each_word
-
-def reverse_each_word_
